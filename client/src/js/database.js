@@ -41,7 +41,7 @@ export const getDb = async () => {
   const tx = contactDb.transaction('jate', 'readonly');
 
   // Open up the desired object store.
-  const store = tx.objectStore('jaye');
+  const store = tx.objectStore('jate');
 
   // Use the .getAll() method to get all data in the database.
   const request = store.getAll();
