@@ -35,5 +35,5 @@ Module 19 Mini-Project: Deploy Contact Directory App on Heroku with Script
 
 ## Links 
 
-Deployed - https://git.heroku.com/my-text-editor-with-pwa.git   <br> 
+Deployed - https://my-text-editor-with-pwa.herokuapp.com/   <br> 
 Repository - https://github.com/ChrisJCota/text-editor
